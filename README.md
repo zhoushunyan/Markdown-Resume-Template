@@ -4,7 +4,7 @@
 
 ## 个人信息 
 
-* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：26  
+* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：27  
 * 手 机：15779066708 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：zhoushun_2017@163.com   
 * 专 业：计算机科学与计算 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：研发工程师
 
@@ -29,7 +29,7 @@
 * [简书](https://www.jianshu.com/u/ad46668d6b9c) 
 
 ## 其他信息 
-* 喜欢钻研，爱学习，爱生活。
+* 喜欢钻研，拥抱未来，爱学习，爱生活。
 * 擅长乒乓球，象棋。
 ## 未来之问
 * Android未来会走向跨端（Flutter）
