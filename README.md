@@ -4,14 +4,14 @@
 
 ## 个人信息 
 
-* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：27  
+* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：26  
 * 手 机：15779066708 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：zhoushun_2017@163.com   
 * 专 业：计算机科学与计算 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：研发工程师
 
 ## 工作及教育经历
 
-* 小米公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2019.8~至今&emsp;&emsp;&emsp;&emsp;&emsp; 手机部-应用软件部       
-* 南昌大学&emsp;&emsp;&emsp;&emsp;&emsp;2017.9~2019.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-研究生         
+* 小米公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2021.7~至今&emsp;&emsp;&emsp;&emsp;&emsp; 手机部-应用软件部       
+* 南昌大学&emsp;&emsp;&emsp;&emsp;&emsp;2018.9~2021.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-研究生         
 
 ## 专业技能
 
@@ -31,5 +31,8 @@
 ## 其他信息 
 * 喜欢钻研，爱学习，爱生活。
 * 擅长乒乓球，象棋。
+## 未来之问
+* Android未来会走向跨端（Flutter）
+* Go语言真的比Java好吗，还是因为Go更年轻。
 
 
